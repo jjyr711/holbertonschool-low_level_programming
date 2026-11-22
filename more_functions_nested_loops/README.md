@@ -1,3 +1,3 @@
-# More functions, more nested loops
+# C - More functions, more nested loops
 
-This directory contains C programming tasks covering functions, function prototypes, header files, variable scope, and nested loops following the Betty style.
+Functions, nested loops, and header files in C.
